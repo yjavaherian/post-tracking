@@ -1,6 +1,10 @@
 # رهگیری مرسولات پستی
 
+[![Docker Publish](https://github.com/yjavaherian/post-tracking/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/yjavaherian/post-tracking/actions/workflows/docker-publish.yml)
+
 یک برنامه وب ساده و خودمیزبان برای رهگیری مرسولات پستی در ایران، با استفاده از داده‌های سرویس رسمی پست جمهوری اسلامی ایران. این ابزار به شما کمک می‌کند تا با ارائه رابطی تمیز، سریع و کاربرپسند برای مشاهده وضعیت مرسولات پستی، همیشه از آخرین وضعیت بسته‌های خود مطلع باشید.
+
+![Screenshot](screenshot.png)
 
 ## ویژگی‌ها
 
