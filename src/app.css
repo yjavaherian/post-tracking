@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Vazir UI';
+	src: url('/vazir-ui.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@import 'tailwindcss';
+
+@theme {
+	--font-sans: 'Vazir UI', sans-serif;
+}
